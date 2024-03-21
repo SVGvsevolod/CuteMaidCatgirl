@@ -1,0 +1,33 @@
+{
+    "embed": {
+        "title": "S.V.G-BOT COMMANDS",
+        "description": "To call these commands you have mention bot in message start:\n```\n@S.V.G-BOT command arguments\n```",
+        "color": "0xff0000",
+        "fields": [
+            {
+                "name": "commands",
+                "value": "get all commands in DM."
+            },
+            {
+                "name": "snap `@mention1`, `@mention2`, `@mention3`...",
+                "value": "give snap to mentioned server members."
+            },
+            {
+                "name": "hug `@mention1`, `@mention2`, `@mention3`...",
+                "value": "hug mentioned server members."
+            },
+            {
+                "name": "gaycheck `@mention` or name",
+                "value": "by using complicated calculations and formulas detect how much user gay."
+            },
+            {
+                "name": "steal avatar `@mention` or name",
+                "value": "get server member's avatar in big size."
+            },
+            {
+                "name": "tic-tac-toe `@mention`",
+                "value": "play tic-tac-toe with someone.\n**How to play:** type message with two digits.\nFirst one - is horizontal position. (1-3)\nSecond one - is vertical position. (1-3)\n:bangbang: One game lasts 1 minute."
+            }
+        ]
+    }
+}

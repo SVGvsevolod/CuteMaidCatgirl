@@ -1,0 +1,101 @@
+﻿[
+    {
+        "embed":{
+            "color":"0xff0000",
+            "fields":[
+                {
+                    "name":":interrobang: Who the f is S.V.G!?",
+                    "value":"Vsevolod S.V.G [es-ve-djei] Subbotkin (<@236926320595042304>) - content creator who makes videos for YouTube to his channel, likes playing games and watch the most animated stuff (cartoons and anime), also likes doing video editing (montage) (to mention what he's doing mentioned above), creating design and doing some coding stuff with various programming languages."
+                },
+                {
+                    "name":":interrobang: What is this server!?",
+                    "value":"This server S.V.G created to connect people with mutual interests in one place to discuss, share, talk and have fun or also to play together. S.V.G everytime tries his best to make this server as better and comfortable place for everyone."
+                },
+                {
+                    "name":":interrobang: Will this S.V.G give some attention!?",
+                    "value":"Yes, that fa... good person when has free time and ability will give some attention and talk with everyone and also play some games together."
+                },
+                {
+                    "name":":interrobang: S.V.G BOT commands!?",
+                    "value":"All <@690342724335173823> commands you can find here: https://vsevolod982.tumblr.com/svgbotcmds"
+                }
+            ]
+        }
+    },
+    "> :interrobang: **Want to invite friends here?!**\n> Then give them this invite link https://discord.gg/AGSgvqz and we wait for them.",
+    {
+        "embed":{
+            "color":"0xff0000",
+            "title":":record_button: LINKS TO HIS RESOURCES :record_button:",
+            "fields":[
+                {
+                    "name":":arrow_right: YOUTUBE CHANNEL - https://youtube.com/vsevolod98subbotkin :arrow_left:",
+                    "value":":arrow_right: TWITTER - https://twitter.com/seva98ut :arrow_left:"
+                },
+                {
+                    "name":":arrow_right: INSTAGRAM - https://instagram.com/svgvsevolod :arrow_left:",
+                    "value":":arrow_right: TUMBLR - https://vsevolod982.tumblr.com/ :arrow_left:"
+                },
+                {
+                    "name":":arrow_right: FACEBOOK - https://facebook.com/vsevolod.subbotkin :arrow_left:",
+                    "value":":arrow_right: DEVIANTART - https://svgvsevolod.deviantart.com/ :arrow_left:"
+                }
+            ]
+        }
+    },
+    {
+        "embed":{
+            "color":"0x039dfc",
+            "description":"```diff\n-  ------------------------------------------------------  -\n-                       SERVER RULES                       -\n-  ------------------------------------------------------  -```\n\n:red_circle: Treat everyone with respect. Do not swear too much.\n:red_circle: Don't spam with unnecessary messages, links and files. You can promote yourself but don't get carried away. Do not distribute viruses or any other harmful stuff.\n:red_circle: Keep all specified topic messages and discussions in topic specified channels. If you don't have access to specific channels, [you have to get your needed role for that below](https://discord.com/channels/720299122489294889/720315483110244384).\n:red_circle: Everything related to games and cooperative playing must be in gaming text channels.\n:red_circle: 18+ content or erotic or pornographic content only in NSFW text channels.\n\nNot following rules will result as punishment like banishment from server (kick or ban if kicking not helping)."
+        }
+    },
+    {
+        "embed":{
+            "color":"0x039dfc",
+            "description":"```diff\n-  ------------------------------------------------------  -\n-                      YOUR LANGUAGES                      -\n-  ------------------------------------------------------  -```\n\n[:bangbang:  Suggest languages!](https://discord.com/channels/720299122489294889/720926595145007184)"
+        }
+    },
+    {
+        "embed":{
+            "color":"0xff8b26",
+            "description":"```diff\n-  ------------------------------------------------------  -\n-                   INTERESTS AND HOBBIES                  -\n-  ------------------------------------------------------  -```\n\nReact with proper emote to messages below."
+        }
+    },
+    {
+        "embed":{
+            "color":"0xff8b26",
+            "description":"`   -----   GAMES   -----   `\n<:duke:723268319217713243>  - Duke Nukem 3D\n<:shelly:723268319691538473>  - Ion Fury\n<:nepsmug:723268320106643497>  - Hyperdimension Neptunia\n<:rappycool:760766183120175125>  - Phantasy Star Online 2\n<:chicken:723268319364251680>  - Counter-Strike\n:lobster:  - Dota 2\n<:pinkderp:723268319766904872>  - Garry's Mod\n:office:  - Tower Unite\n:red_car:  - Grand Theft Auto\n<:grassblock:723268319393611878>  - Minecraft\n<:terraria:723268319737675876>  - Terraria\n:man_zombie:  - Killing Floor\n:woman_zombie:  - Left 4 Dead\n:confounded:  - Don't Starve\n<:megusmug:723268319234359307>  - Strategies\n:book:  - Visual Novels :underage:"
+        }
+    },
+    {
+        "embed":{
+            "color":"0xff8b26",
+            "description":"`   -----   OTHERS   -----   `\n<:nadeshiko:723268319255330858>  - Anime\n<:twihappy:723268319742001204>  - My Little Pony\n:smiley_cat:  - Cartoons\n:clapper:  - Movies\n:desktop:  - Technologies\n\n`   -----   HOBBIES   -----   `\n:art:  - Artist\n:person_walking:  - Animator\n:film_frames:  - Video editor\n:drum:  - Musician\n:keyboard:  - Coder\n:pencil:  - Writer"
+        }
+    },
+    {
+        "embed":{
+            "color":"0x941313",
+            "description":"```diff\n-  ------------------------------------------------------  -\n-              18+ CONTENT OR EXPLICIT CONTENT             -\n-  ------------------------------------------------------  -```\n\nThis server has <#724802267143733338> channel where you can send lewds and see what share others.\n\nTo claim access react with :underage: to this message.\n\nAlso keep in mind that you confirm that you are mature and can browse this content."
+        }
+    },
+    {
+        "embed":{
+            "color":"0xa3a11a",
+            "description":"```diff\n-  ------------------------------------------------------  -\n-                     SPECIFIC CHANNELS                    -\n-  ------------------------------------------------------  -```\n\nSpecific channels - it's like channels dedicated to special topics or more like culture clubs.\nReact to this message with proper emote.\n:bangbang: 18+ content is allowed but spoiler it.\n\n<:blake:723268319494275182>  - Nekochans channel\n<:astolfo:723268320081608725>  - Traps channel\n\n*<#724802770896683048> - only open channel*"
+        }
+    },
+    {
+        "embed":{
+            "color":"0xb53004",
+            "description":"```diff\n-  ------------------------------------------------------  -\n-              SUPPORT ME AND WHAT I AM DOING              -\n-  ------------------------------------------------------  -```\n\n`1.` **Sponsorship on YouTube**\nSupport me by becoming sponsor on my YouTube channel.\nhttps://www.youtube.com/user/vsevolod98subbotkin/join\nYou'll receive role <@&720354920297005069>\n\n`2.` **Buy tea for me (Ko-Fi)**\nSupport me by donating on my Ko-Fi.\nhttps://ko-fi.com/svgvsevolod\nYou'll receive role <@&722435726196867132>"
+        }
+    },
+    "> Твой язык русский или другой язык славянской группы и не очень с инглишем или другими языками?\n> Тогда тебе сюда https://discord.gg/xDFF7Jn",
+    {
+        "embed":{
+            "color":"0xff0000",
+            "description":"[☝️ Scroll to the top](https://discord.com/channels/720299122489294889/720315483110244384)"
+        }
+    }
+]
