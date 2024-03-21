@@ -15,13 +15,13 @@ var workers = {};
 welcome.actions.createWelcome = function(a) {
     switch (a) {
         case 0:
-            var b = require("../welcome_ru.json");
+            var b = require("../data/welcome_ru.json");
             for (var i = 0; i < b.length; i++) {
                 svgbot.client.channels.cache.get("365586749352837120").send(b[i]);
             }
             break;
         case 1:
-            var b = require("../welcome_en.json");
+            var b = require("../data/welcome_en.json");
             for (var i = 0; i < b.length; i++) {
                 svgbot.client.channels.cache.get("720315483110244384").send(b[i]);
             }
@@ -85,11 +85,11 @@ commands.map = {
 commands.doc = function(a, b) {
     switch (svgbot.servers[a]) {
         case 0:
-            var c = require("../doc_ru.json");
+            var c = require("../data/doc_ru.json");
             b.send(c);
             break;
         case 1:
-            var c = require("../doc_en.json");
+            var c = require("../data/doc_en.json");
             b.send(c);
             break;
     }
@@ -385,10 +385,14 @@ channels.general = {
 strings.newMemberMsg = function(a, b, c) {
     switch (a) {
         case 0:
-            return "<@" + b + ">, приветствую тебя и добро пожаловать на сервер S.V.G-ея.\nЗдесь ты можешь пообщаться с другими прекрасными людьми и провести хорошо время.\nНе забудь ознакомиться с <#" + c + ">, если ты этого еще не сделал.";
+            return "<@" + b +
+                ">, приветствую тебя и добро пожаловать на сервер S.V.G-ея.\nЗдесь ты можешь пообщаться с другими прекрасными людьми и провести хорошо время.\nНе забудь ознакомиться с <#"
+                + c + ">, если ты этого еще не сделал.";
             break;
         case 1:
-            return "Welcome <@" + b + "> to S.V.G's International Server.\nHere you can communicate with other good people and have fun.\nDon't forget to check <#" + c + "> if you haven't done.";
+            return "Welcome <@" + b +
+                "> to S.V.G's International Server.\nHere you can communicate with other good people and have fun.\nDon't forget to check <#"
+                + c + "> if you haven't done.";
             break;
     }
 };
@@ -445,10 +449,12 @@ strings.hugDirect = function(a, b, c) {
 strings.fagLog = function(a, b, c, d) {
     switch (a) {
         case 0:
-            return "При помощи особых подсчетов по специальным формулам,\nбыло выяснено, что " + b + " на " + c + "% является пидором.\n> ну а остальные " + d + "%, тут уже простите, куда деваться";
+            return "При помощи особых подсчетов по специальным формулам,\nбыло выяснено, что " + b + " на "
+                + c + "% является пидором.\n> ну а остальные " + d + "%, тут уже простите, куда деваться";
             break;
         case 1:
-            return "By using complicated calculations and special formulas\nwere detected that " + b + " is " + c + "% gay";
+            return "By using complicated calculations and special formulas\nwere detected that " + b + " is "
+                + c + "% gay";
             break;
     }
 };
