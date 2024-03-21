@@ -642,7 +642,7 @@ workers.neptunia_reddit.on("error", () => {
 });
 workers.restart_worker = function(a) {
     delete svgbot.workers[a];
-    svgbot.workers[a] = new svgbot.Worker("./" + a + ".js");
+    svgbot.workers[a] = new svgbot.Worker("./src/" + a + ".js");
     svgbot.workers[a].on("error", () => {
         svgbot.workers.restart_worker(a);
     });
