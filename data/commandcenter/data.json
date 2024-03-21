@@ -1,0 +1,95 @@
+﻿{
+    "command_names": {
+        "a": {
+            "en-us": "commands",
+            "ru": "команды"
+        },
+        "b": {
+            "en-us": "snap",
+            "ru": "дать щелбан"
+        },
+        "c": {
+            "en-us": "hug",
+            "ru": "обнять"
+        },
+        "d": {
+            "en-us": "pat",
+            "ru": "погладить"
+        },
+        "e": {
+            "en-us": "kiss",
+            "ru": "поцеловать"
+        },
+        "f": {
+            "en-us": "boop",
+            "ru": "буп"
+        },
+        "g": {
+            "en-us": "bonk",
+            "ru": "бонк"
+        },
+        "h": {
+            "en-us": "perform sex",
+            "ru": "трэхнуть"
+        },
+        "i": {
+            "en-us": "say",
+            "ru": "сказать"
+        },
+        "j": {
+            "en-us": "steal avatar",
+            "ru": "скамуниздить аватарку"
+        },
+        "k": {
+            "en-us": "tic-tac-toe",
+            "ru": "крестики-нолики"
+        }
+    },
+    "command_desc": {
+
+    },
+    "command_params": {
+        "b": [
+            {
+                "type": 6,
+                "name": {
+                    "en-us": "victim",
+                    "ru": "жертва"
+                },
+                "description": {
+                    "en-us": "Choose victim to snap",
+                    "ru": "Выберите жертву для щелбана"
+                },
+                "required": true
+            }
+        ],
+        "c": [
+            {
+                "type": 6,
+                "name": {
+                    "en-us": "victim",
+                    "ru": "жертва"
+                },
+                "description": {
+                    "en-us": "Choose victim to hug",
+                    "ru": "Выберите жертву для обнимашек"
+                },
+                "required": true
+            }
+        ],
+        "d": [
+            {
+                "type": 6,
+                "name": {
+                    "en-us": "victim",
+                    "ru": "жертва"
+                },
+                "description": {
+                    "en-us": "Choose victim to pat",
+                    "ru": "Выберите жертву для поглаживаний"
+                },
+                "required": true
+            }
+        ]
+    }
+}

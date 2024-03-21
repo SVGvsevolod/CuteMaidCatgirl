@@ -1,0 +1,114 @@
+﻿[
+    {
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-           Server map or fast server navigation           -\n-  ------------------------------------------------------  -```\n\nIf you somehow can't find your needed channel then you can use this server map. Here below listed all server's channels."
+        }
+    },{
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-                      MAIN CHANNELS                       -\n-  ------------------------------------------------------  -```\n\n<#720315483110244384> - Server information and to claim roles.\n<#720905643313201217> - Announcements and news of this server.\n<#720916022374301707> - Dedicated to best or funny comments to my YT videos.\n<#730843676304998402> - Channel for submitting for role <@&720354097672224860>.\n<#734990309015945246> - Partner servers of cool guys that happy to work with me.",
+            "fields": [
+                {
+                    "name": "` --- GENERAL CHATS --- `",
+                    "value": "<#720299122967707710> - English General Chat."
+                },{
+                    "name": "` --- SUPER CHAT --- `",
+                    "value": "<#722438478251687977> - Elite chat.\n:exclamation:**for roles <@&749955317722382459>, <@&720354920297005069>, <@&722435726196867132>**"
+                },{
+                    "name": "` --- BOT TESTING --- `",
+                    "value": "<#756354897384964156> - Here you can test bots functionality (spam commands)."
+                },{
+                    "name": "` --- SUGGESTIONS --- `",
+                    "value": "<#720926595145007184> - Suggest here languages for General Chats.\n<#720927084603637841> - Suggest here what to add to server.\n<#720926789945262091> - Suggest emote pics here."
+                }
+            ]
+        }
+    },{
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-                      STUFF CHANNELS                      -\n-  ------------------------------------------------------  -```\n",
+            "fields": [
+                {
+                    "name": "` --- STUFF --- `",
+                    "value": "<#724801904239968266> - Channel for memes and funny pictures.\n<#724801951027429396> - Channel for your or other good artworks. Post that are SFW.\n<#758064379781578754> - For images or videos with animals.\n<#724802104316788806> - Channel about Cartoon Shows or Movies.\n:exclamation:**unlockable via <@&724805727566299187> role**\n<#724802166526705695> - Channel about Movies or Shows.\n:exclamation:**unlockable via <@&724805863193444413> role**\n<#724802217642557452> - Share and listen your music here."
+                },{
+                    "name": "` --- GEEK STUFF --- `",
+                    "value": "<#756363117122027530> - Channel about technologies and gadgets.\n:exclamation:**unlockable via <@&758073418804494498> role**\n<#733299274930061313> - Channel about coding and programming.\n:exclamation:**unlockable via <@&733296645956960386> role**"
+                }
+            ]
+        }
+    },{
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-                      WEABOO-CORNER                        -\n-  ------------------------------------------------------  -```\n\n<#724802001329979415> - Channel about Anime.\n:exclamation:**unlockable via <@&724805537966850073> role**\n<#756368446220009523> - Here you can assemble your waifu and/or husbando harem."
+        }
+    },{
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-                       BRONY-CORNER                       -\n-  ------------------------------------------------------  -```\n\n<#724802046313889884> - Channel about My Little Pony.\n:exclamation:**unlockable via <@&724805623493034045> role**"
+        }
+    },{
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-                     GAMING CHANNELS                      -\n-  ------------------------------------------------------  -```\n\n<#740379785712238624> - Channel for news about game industry.\n<#720931887513862234> - Discuss gaming and everything about gaming industry.\n<#720932260219453460> - Search for players to play together.",
+            "fields": [
+                {
+                    "name": "` --- BUILD ENGINE GAMES --- `",
+                    "value": "<#724798469360975892> - Channel about game and/or topic Duke Nukem 3D.\n:exclamation:**unlockable via <@&724803398993575996> role**\n<#724798793714761810> - Channel about game and/or topic Ion Fury.\n:exclamation:**unlockable via <@&724803619295068190> role**"
+                },{
+                    "name": "` --- HYPERDIMENSION NEPTUNIA --- `",
+                    "value": "<#724798857153740923> - Channel about game series and/or topic Hyperdimension Neptunia.\n:exclamation:**unlockable via <@&724803738832863273> role**"
+                },{
+                    "name": "` --- PHANTASY STAR ONLINE 2 --- `",
+                    "value": "<#758076046842003537> - Channel for alerts about any events happening in game.\n<#758075998662164660> - Channel about game and/or topic Phantasy Star Online 2.\n:exclamation:**unlockable via <@&758072319527616552> role**"
+                },{
+                    "name": "` --- SHOOTERS --- `",
+                    "value": "<#724799094815588382> - Channel about game series and/or topic Counter-Strike.\n:exclamation:**unlockable via <@&724803815001292860> role**\n<#725714165120893039> - Channel about game series and/or topic Grand Theft Auto.\n:exclamation:**unlockable via <@&725715052195348552> role**"
+                },{
+                    "name": "` --- MOBA --- `",
+                    "value": "<#758078886016843806> - Channel about game and/or topic Dota 2.\n:exclamation:**unlockable via <@&758073215837798490> role**"
+                },{
+                    "name": "` --- SANDBOX --- `",
+                    "value": "<#724799303138410496> - Channel about game and/or topic Garry's Mod.\n:exclamation:**unlockable via <@&724803881640394804> role**\n<#724799528288518165> - Channel about game and/or topic Tower Unite.\n:exclamation:**unlockable via <@&724803975219773563> role**\n<#724799604515930153> - Channel about game and/or topic Minecraft.\n:exclamation:**unlockable via <@&724804080022585474> role**\n<#724799703253778473> - Channel about game and/or topic Terraria.\n:exclamation:**unlockable via <@&724804221286875176> role**"
+                },{
+                    "name": "` --- SURVIVAL --- `",
+                    "value": "<#724799940290936944> - Channel about game series and/or topic Killing Floor.\n:exclamation:**unlockable via <@&724804336210935889> role**\n<#724800010507649115> - Channel about game series and/or topic Left 4 Dead.\n:exclamation:**unlockable via <@&724805133241679944> role**\n<#724800075452383242> - Channel about game series and/or topic Don't Starve.\n:exclamation:**unlockable via <@&724805278867914782> role**"
+                },{
+                    "name": "` --- OTHER --- `",
+                    "value": "<#760700707015098408> - Channel about games in genre `Strategy`.\n:exclamation:**unlockable via <@&760700569391202386> role**\n<#724800561815355423> - SFW channel about games in genre `Visual Novel`.\n:underage: <#800275660404424734> - NSFW channel about games in genre `Visual Novel`.\n:exclamation:**unlockable via <@&724805384694530061> role**"
+                }
+            ]
+        }
+    },{
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-                        OTHER STUFF                       -\n-  ------------------------------------------------------  -```\n",
+            "fields": [
+                {
+                    "name": "` --- ROLEPLAY --- `",
+                    "value": "<#758348001105543219> - Channel for roleplaying."
+                },{
+                    "name": "` --- [ 18+ ] NSFW --- `",
+                    "value": ":underage: <#724802267143733338> - Post all 18+ content here.\n:exclamation:**unlockable via <@&724805998749024337> role**"
+                },{
+                    "name": "` --- [ 18+ ] СПЕЦИФИЧНОЕ --- `",
+                    "value": ":underage: <#724802770896683048> - Channel dedicated to Sailor Moon Redraw Challenge.\n:underage: <#733300401612521523> - Nekochan lover club.\n:exclamation:**unlockable via <@&733297256073265232> role**\n:underage: <#733302554192248863> - Trap lover club.\n:exclamation:**unlockable via <@&733297320346779650> role**"
+                }
+            ]
+        }
+    },{
+        "embed": {
+            "color": "0xff0000",
+            "description": "```diff\n-  ------------------------------------------------------  -\n-                      VOICE CHANNELS                      -\n-  ------------------------------------------------------  -```\n\n<#720927836017524746> - Commands for voice channel control.\n<#720928076476973108> - Control your voice channel here.\n<#720928414110056530> - Chat for voice channels."
+        }
+    },
+    "> https://discord.gg/kQCgtES",
+    "> https://discord.gg/ckePdTW",
+    {
+        "embed": {
+            "color": "0xff0000",
+            "description": "[☝️ Scroll to the top](https://discord.com/channels/720299122489294889/764137893924306958)"
+        }
+    }
+]
