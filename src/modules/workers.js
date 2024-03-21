@@ -4,7 +4,7 @@ var _w_init = () => {
     Workers.prototype.workerSystem = require("worker_threads");
     Workers.prototype.start = (a, b, d, e) => {
         var w = svgbot.workers[a] = 
-            new svgbot.workers.workerSystem.Worker("./svgbot/workers/" + a + ".js");
+            new svgbot.workers.workerSystem.Worker("./src/workers/" + a + ".js");
         w.on("online", () => {
             svgbot.terminal.log(":information_source: Worker " + a + " has been started.");
             if (b)

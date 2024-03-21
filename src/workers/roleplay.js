@@ -1,6 +1,6 @@
 var workerSystem = require("worker_threads");
 var fileSystem = require("fs");
-var data = require("./../../data/roleplay_data.json");
+var data = require("../../data/roleplay_data.json");
 var ids = {
     everyone: ["236928901522259968", "720299122489294889"],
     ownerrole: ["690245557054341188", "720350403404890193"],
