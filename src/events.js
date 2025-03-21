@@ -158,7 +158,7 @@
                     }
                 if (t)
                     svgbot.talk.request(g, m.channel.id, m.content);
-                /*for (var i in d) {
+                for (var i in d) {
                     if (m.content.indexOf(d[i]) > -1) {
                         var e = m.content.split(" "),
                             f = undefined;
@@ -173,7 +173,7 @@
                             url: f
                         });
                     }
-                }*/
+                }
             }
             if (svgbot.aprilfoolsdata[m.channel.id] && !m.author.bot) {
                 m.delete().then(m => {

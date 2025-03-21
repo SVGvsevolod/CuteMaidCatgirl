@@ -56,7 +56,7 @@ module.exports = {
         },
         trytorestart: true
     },
-    /*imgextract: {
+    imgextract: {
         onmessage: a => {
             if (a.files && a.files.length)
                 for (var i in a.files)
@@ -70,7 +70,7 @@ module.exports = {
                         });
         },
         trytorestart: true
-    },*/
+    },
     talk: {
         onmessage: a => {
             switch (a.action) {
